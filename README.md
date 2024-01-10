@@ -91,4 +91,3 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 <h2 align="left">Contatct me:</h2>
 <h3 align="left">Email</h3>
 <a> nadaa.aldosarii@gmail.com</a></a>
-<h3 align="left">Alshehri.b@outlook.sa</h3>
