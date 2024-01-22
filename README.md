@@ -90,7 +90,7 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 
 <h2>Team</h2>
  <p><a href="https://github.com/BaderAlsheri2030">Bader Alshehri</a></p> 
-   <p><a href="https://github.com/NadaaNasserr">Nada Naser</a></p> 
+   <p><a href="https://github.com/NadaaNasserr">Nada Nasser</a></p> 
 
 
 <h3 align="left">Email</h3>
